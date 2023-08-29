@@ -5,7 +5,7 @@ Utilize OCR for business card data extraction. Present in interactive Streamlit 
 
 ## Explanation To Do Execute The  Project : 
 
-      Step 1: Install Required Libraries That Mentioned in Dashboard.py File.
+      Step 1: Install Required Libraries That Mentioned in biscard.py File.
 
       Step 2 : The code folder contains all the code and animation  files  of this project , bussiness card image folder has 5 sample card images to ectract data , I provided GUI screenshots of this project in biscard gui file. 
 
