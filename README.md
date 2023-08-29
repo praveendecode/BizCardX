@@ -30,7 +30,7 @@ Utilize OCR for business card data extraction. Present in interactive Streamlit 
               
               Data Managment using  PostgresSQl
 
-              User Interface : Streammlit
+              User Interface : Streamlit
               
               IDE: Pycharm Community Version
 
