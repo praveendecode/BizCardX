@@ -64,7 +64,7 @@ class Biscardx:
             menu_title="BiscardX Project",
             options=['Intro',"Image Process", "Load to SQL",
                      'User Access', 'Feedback'],
-            icons=['mic-fill', 'cash-stack', 'phone-flip', 'geo-alt-fill', 'clock-fill'],
+            icons=['mic-fill', 'image-fill', 'database-fill', 'person-square', 'chat-heart-fill'],
             menu_icon='alexa',
             default_index=0,
         )
@@ -1046,6 +1046,7 @@ class Biscardx:
 
 
                     # Convert the image data to a PIL image
+                 
                     image = Image.open(io.BytesIO(user_image_data))
                     st.markdown(
                         f"<h1 style='font-size: 30px;'> <span style='color: cyan;'>Image ⬇️ </span> </h1>",
@@ -2091,3 +2092,5 @@ class Biscardx:
 Object = Biscardx()
 
 Object.data_x_2_sql()
+
+#___________________________________________________________________________FINISHED__________________________________________#
