@@ -2,6 +2,9 @@
       
       This project focuses on utilizing Optical Character Recognition (OCR) for the extraction of data from business cards. The extracted data is presented in an interactive Streamlit user interface, and efficient data storage is optimized using PostgreSQL.
 
+![image](https://github.com/praveendecode/BizCardX/assets/95226524/7a73a63a-fa72-44bc-bb86-3dd6fbbb6e88)
+
+
 # Overview
 
 This project focuses on utilizing Optical Character Recognition (OCR) for the extraction of data from business cards. The extracted data is presented in an interactive Streamlit user interface, and efficient data storage is optimized using PostgreSQL
